@@ -3,8 +3,8 @@ This project aims to analyze Adidas' product sales performance across products, 
 
 # Business Questions
 - Which product categories generate the most revenue, units sold, and profit?
-- How do revenue and profit trend over time (monthly & quarterly)?
-- Which sales method (Online, In-store, Outlet) contributes most to revenue and profit?
+- How does revenue and profit trend over time (monthly & quarterly)?
+- Which sales method (Online, In-store, Outlet) contribute most to revenue and profit?
 - Which retailers contribute the most to revenue and profit?
 - Which regions, states, and cities generate the most revenue and profit?
 - How do seasons affect operating profit?
